@@ -1,0 +1,30 @@
+{
+    "id": "fa442812-8faa-481d-b253-0d133cfd365a",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "fa442812-8faa-481d-b253-0d133cfd365a",
+    "children": [
+        "159c4a39-e688-4acb-b6f1-c6e541c8e1c2",
+        "540e0e74-c242-4d86-9ec9-92eafc64b25c",
+        "768b112b-98cd-4c1e-8bf1-5578bebe2c0a",
+        "426d864c-236d-426e-9cce-5e215d2568d5",
+        "4736b5d2-e010-41dd-b679-d6b58e4eae55",
+        "1c9a23cd-803a-44df-acda-517045b311fa",
+        "eb66eb64-4859-4d4e-a35f-fd82280fafe8",
+        "bac0e258-3c7c-4c30-9739-ecd8dea7b297",
+        "76f7acbe-cb67-42aa-9d1b-3b12dc478007",
+        "b0c87577-1aaf-46eb-b489-e1901e14d67e",
+        "89c52b3c-9096-4766-980b-f020a9153a83",
+        "1b11c0a4-82cd-45aa-a165-6096b8c72e43",
+        "5e0ba5de-feb8-4ed6-a1af-7cd22588faef",
+        "5a61d7fe-e7cc-4055-8d02-57995ccc8789",
+        "9ad36765-1b4e-4e6b-82a4-79eeb92e9f6a",
+        "6c693f8f-2654-4011-a446-0e85ad760bb4",
+        "6e787e07-3fdc-4cba-9f22-c70a48ee4033",
+        "dbe8cb70-92c5-4983-97b2-fc7de2c5114c"
+    ],
+    "filterType": "GMObject",
+    "folderName": "animais",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

@@ -1,0 +1,30 @@
+{
+    "id": "5fb0752b-410f-42be-b0d9-a8c152d21612",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "5fb0752b-410f-42be-b0d9-a8c152d21612",
+    "children": [
+        "f465b4a9-6989-4e0e-851e-d62a41181d4d",
+        "baa61e9b-19ee-4bcc-acc1-3aafac50066c",
+        "bc7c1f87-3674-47e9-9726-7c081e5b28b1",
+        "38273063-90c4-4754-a6d4-5ddbaac081c2",
+        "97d7575b-adfc-449a-b5d3-a2602ed22bbb",
+        "0c6a0943-6260-4982-825e-13e56140fb8e",
+        "46134456-2ff5-4fb9-a5c3-7f10466c6fbf",
+        "5c31f4ab-d1df-4be4-a01e-c15313b19d5a",
+        "93451b19-e7f2-409d-815a-17cb11d3026c",
+        "1fa5dfee-6f4a-41c3-b271-cbdde4af7c71",
+        "05ccc650-d32d-4ee2-8590-2b367e664e07",
+        "eda9929d-16f9-432a-ac3a-d198ca5ebe1a",
+        "00a56c9e-96ba-40ef-a935-1441e47722b9",
+        "a2eb4ee3-0e91-4465-a7cb-804de8c6cba7",
+        "c7a1e034-b608-466b-9c05-dd136bc988b4",
+        "22a58531-17fc-4d2a-aa2b-ffc58687c4e4",
+        "3cd36380-d3aa-4496-9e94-21eab7a64f3f",
+        "fd3a2fa9-b5b9-44c4-87ba-777e968b476a"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "animais",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

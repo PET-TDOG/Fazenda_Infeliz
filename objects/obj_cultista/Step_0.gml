@@ -11,3 +11,8 @@ else{
 	image_speed = 0;
 	speed = 0;
 }
+
+// Randomiza as frase que os animais falam, mas apenas quando não tem nenhum animal perto
+if (distance_to_object(obj_animal)>192){
+	global.texto = global.frases[irandom(array_length_1d(global.frases)-1)];
+}

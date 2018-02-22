@@ -1,7 +1,7 @@
 /// @description Desenha a fala dos animais
 
 // Desenha a fala do animal na tela
-if (global.fala and distance_to_object(obj_cultista)<192){
+if (distance_to_object(obj_cultista)<192){
 	draw_set_font(fnt_default);
 	draw_set_halign(fa_left);
 	draw_set_valign(fa_middle);

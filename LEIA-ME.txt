@@ -1,6 +1,22 @@
 ﻿
 
-Este jogo será usado para a gincana do Include 2k18
+Este jogo será usado para a gincana do Include 2k18.
+
+Na versão de desenvolvedor, se o jogador pressionar a tecla "G", o jogo termina. Esse pedaço do código tem que ser comentado quando o jogo for ser liberado.
 
 
 	Com amor, T-DOG Team e Senhor das trevas, Baphomet<3
+
+------------------------------------------------------------------------------
+
+
+Atualizações:
+
+	versão Include 2K18 0.66.6.4:
+
+- Agora as falas dos animais são ativadas enquanto o Cultista fica perto, o timer que desativava as falas foi retirado.
+
+- A randomização das falas não é mais feita com o clique do mouse.
+
+- A randomização das falas agora é controla dentro do objeto Cultista, e fica ativa sempre que ele fica afastado dos animais.
+

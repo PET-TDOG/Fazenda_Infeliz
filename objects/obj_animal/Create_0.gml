@@ -1,8 +1,7 @@
 /// @description Configuraçãoes inicial do animal
 
-almaColetada = false; // Variável que diz se a alma do animal já foi coletada pelo jogador
-global.fala = false; // O animal fala se essa variável for verdadeira
-espacamentoDeIcone = 0; //define o espaçamento dos sprites desenhados no topo da tela
+almaColetada = false; // Variável que diz se a alma do animal já foi coletada pelo jogador 
+espacamentoDeIcone = 0; // Define o espaçamento dos sprites desenhados no topo da tela
 
 #region //Frases desmotivacionais
 global.frases = ["Lucifer não fez nada de errado.",

@@ -13,5 +13,5 @@ if ( distancia > 500 ) {
 
 if (chase) {
 	direction = point_direction(x, y, obj_cultista.x, obj_cultista.y)
-	speed = 3;
+	speed = rapidez;
 }

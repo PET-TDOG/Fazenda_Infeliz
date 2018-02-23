@@ -33,12 +33,10 @@ Atualizações:
 
 	versão Include 2K18 0.66.6.6:
 
-- Um time de 90 segundos é exibido na tela. Esse é o tempo em que o jogo termina (o tempo de 60 segundo deixava o jogo muito difícil).
+- Um timer de 90 segundos é exibido na tela. Esse é o tempo em que o jogo termina (o tempo de 60 segundo deixava o jogo muito difícil).
 
 - Corrigido bug do jogo não reiniciar quando o Cultista é pego pelo inimigo.
 
 - Corrigido bug do Cultista sumir quando é pego pelo inimigo.
-
-- Corrigido bug do inmimigo ficar tremendo quando pega o Cultista.
 
 - Ajustado a caixa de colisão dos inimigos. Estava grande demais.

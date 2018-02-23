@@ -12,6 +12,7 @@ Na versão de desenvolvedor, se o jogador pressionar a tecla "G", o jogo termina
 
 Atualizações:
 
+
 	versão Include 2K18 0.66.6.4:
 
 - Agora as falas dos animais são ativadas enquanto o Cultista fica perto, o timer que desativava as falas foi retirado.
@@ -20,3 +21,24 @@ Atualizações:
 
 - A randomização das falas agora é controla dentro do objeto Cultista, e fica ativa sempre que ele fica afastado dos animais.
 
+
+
+	versão Include 2K18 0.66.6.5:
+
+- Os inimigos ficaram mais rápidose enxergam mais longe.
+
+- O jogo termina em 60 segundos.
+
+
+
+	versão Include 2K18 0.66.6.6:
+
+- Um time de 90 segundos é exibido na tela. Esse é o tempo em que o jogo termina (o tempo de 60 segundo deixava o jogo muito difícil).
+
+- Corrigido bug do jogo não reiniciar quando o Cultista é pego pelo inimigo.
+
+- Corrigido bug do Cultista sumir quando é pego pelo inimigo.
+
+- Corrigido bug do inmimigo ficar tremendo quando pega o Cultista.
+
+- Ajustado a caixa de colisão dos inimigos. Estava grande demais.

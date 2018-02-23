@@ -15,5 +15,5 @@ if (global.almasDeSatan >= instance_number(obj_animal)){
 }
 
 if (!global.vivo) {
-	instance_deactivate_object(obj_cultista);
+	instance_create_layer(x,y,"instances",obj_gameOver);// Cria um objeto que vai controlar o fim do mundo e reiniciar o jogo.
 }

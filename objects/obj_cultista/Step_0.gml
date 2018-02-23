@@ -16,3 +16,8 @@ else{
 if (distance_to_object(obj_animal)>192){
 	global.texto = global.frases[irandom(array_length_1d(global.frases)-1)];
 }
+if (!global.vivo) {
+	image_index = 0;
+	image_speed = 0;
+	speed = 0;
+}

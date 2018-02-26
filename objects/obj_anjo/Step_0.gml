@@ -15,7 +15,7 @@ if (chase) {
 	direction = point_direction(x, y, obj_cultista.x, obj_cultista.y)
 	speed = rapidez;
 }
-if (!global.vivo) {
+if (!global.vivo or global.gameOver) {
 	image_index = 0;
 	image_speed = 0;
 	speed = 0;

@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "47b43c9b-d280-4ad9-b67a-2f2b1e20e86a",
+            "Value": {
+                "id": "4a09f1df-a038-4984-a1c4-9c94a5b7aeab",
+                "resourcePath": "sprites\\spr_hud_Inventario\\spr_hud_Inventario.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "491e8d97-bedf-43ed-8e68-0926bfd517eb",
             "Value": {
                 "id": "478c1501-3fab-4ccd-b991-49f4915b46e7",

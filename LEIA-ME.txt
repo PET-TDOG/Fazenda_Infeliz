@@ -60,3 +60,9 @@ Atualizações:
 - Corrigigo o bug com o cronômetro do jogo.
 
 
+
+	versão Include 2K18 0.66.6.9:
+
+- Corrigido bug com os inimigos que continuavam perseguindo o Cultista mesmo quando jogo acabava.
+
+- Adição de um HUD que ajuda a identificar quantas almas faltam para serem coletadas.

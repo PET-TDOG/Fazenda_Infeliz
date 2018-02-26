@@ -1,8 +1,12 @@
 /// @description Mensagens na tela
 
+// Game Over quando o cronômetro chega a zero.
 if (global.timer <= 0){
 	global.timer = 0;
+	alarm_set(0,1); // Alarme que vai encerrar o jogo.
 }
+
+// Exibe o cronômetro na tela.
 draw_set_font(fnt_default);
 draw_set_halign(fa_left);
 draw_set_valign(fa_middle);

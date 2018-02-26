@@ -5,13 +5,13 @@
     "name": "obj_instruc",
     "eventList": [
         {
-            "id": "ef2b03bd-dd40-4e21-8de1-88a6080004ae",
+            "id": "55bfd5aa-7268-44c0-adf2-f6ee29053994",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 6,
+            "eventtype": 3,
             "m_owner": "315b2ba3-8674-4347-b5fa-48c298648236"
         }
     ],

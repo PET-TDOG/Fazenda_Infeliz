@@ -4,6 +4,8 @@ Este jogo será usado para a gincana do Include 2k18.
 
 Na versão de desenvolvedor, se o jogador pressionar a tecla "G", o jogo termina. Esse pedaço do código tem que ser comentado quando o jogo for ser liberado.
 
+A tecla "R" Reinicia o jogo.
+
 
 	Com amor, T-DOG Team e Senhor das trevas, Baphomet<3
 
@@ -40,3 +42,21 @@ Atualizações:
 - Corrigido bug do Cultista sumir quando é pego pelo inimigo.
 
 - Ajustado a caixa de colisão dos inimigos. Estava grande demais.
+
+
+
+	versão Include 2K18 0.66.6.7:
+
+- Foi adicionada uma tela com instruções para o jogador.
+
+
+
+	versão Include 2K18 0.66.6.8:
+
+- Agora a tecla "R" reicia o jogo.
+
+- Corrigido o bug das instruções não sumirem quando o jogador não clicava em cima delas.
+
+- Corrigigo o bug com o cronômetro do jogo.
+
+
